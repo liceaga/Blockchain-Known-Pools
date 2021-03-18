@@ -1125,6 +1125,14 @@
         "1FFxkVijzvUPUeHgkFjBk2Qw8j3wQY2cDw" : {
             "name" : "Foundry USA",
             "link" : "https://foundrydigital.com/"
+        },
+        "1QEiAhdHdMhBgVbDM7zUXWGkNhgEEJ6uLd": {
+            "name": "ArkPool",
+            "link": "https://www.arkpool.com/"
+        },
+        "/ArkPool/": {
+            "name": "ArkPool",
+            "link": "https://www.arkpool.com/"
         }
     }
 }
