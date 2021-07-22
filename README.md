@@ -1,6 +1,6 @@
 Blockchain Pools
 ======================
 
-Bitcoin Mining Known Pools Tracking Tags for https://btc.com/stats/pool
+Bitcoin Mining Known Pools Tracking Tags for https://blockchain.info/pools
 
 Contributions welcome.
